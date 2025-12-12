@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-<img width="203" height="60" alt="image" src="https://github.com/user-attachments/assets/947306d1-83ff-4c62-9ea2-02d8515ad0f7" alt="Omics Intel Lab banner" width="100%"/>
-</p>
-
-
 <h2 align="center">👋 Hi there, welcome to Omics Intel Lab</h2>
 
 <p align="center">
